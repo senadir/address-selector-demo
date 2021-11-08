@@ -1,0 +1,11 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/address-selector",
+	"version": "0.1.0",
+	"title": "Address Selector",
+	"category": "widgets",
+	"textdomain": "address-selector",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

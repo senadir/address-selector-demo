@@ -1,0 +1,17 @@
+{
+	"name": "woocommerce/address-selector",
+	"version": "1.0.0",
+	"title": "Address Selector",
+	"category": "woocommerce",
+	"description": "Address Selector.",
+	"supports": {
+		"html": false,
+		"align": false,
+		"multiple": false,
+		"reusable": false
+	},
+	"parent": [
+		"woocommerce/checkout-fields-block"
+	],
+	"textdomain": "woocommerce-address-selector"
+}
